@@ -1,0 +1,31 @@
+The Earth is the third planet from the Sun and the only astronomical object known to harbor life. About 71% of Earth's surface is covered with water, mostly by oceans. The remaining 29% is land consisting of continents and islands. Earth's atmosphere consists mainly of nitrogen and oxygen.
+
+Python is a high-level, interpreted programming language created by Guido van Rossum and first released in 1991. Python's design philosophy emphasizes code readability with the use of significant indentation. It is dynamically typed and garbage-collected.
+
+Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving accuracy over time. Machine learning algorithms build a model based on sample data, known as training data.
+
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889. The tower is 330 meters tall and was the world's tallest man-made structure until 1930.
+
+Photosynthesis is the process by which green plants and certain other organisms transform light energy into chemical energy. During photosynthesis in green plants, light energy is captured and used to convert water, carbon dioxide, and minerals into oxygen and energy-rich organic compounds.
+
+The theory of relativity, developed by Albert Einstein, encompasses two interrelated theories: special relativity and general relativity. Special relativity applies to all physical phenomena in the absence of gravity. General relativity explains the law of gravitation and its relation to other forces of nature. The theory was published between 1905 and 1915.
+
+DNA (deoxyribonucleic acid) is a molecule composed of two polynucleotide chains that coil around each other to form a double helix. DNA carries genetic instructions for the development, functioning, growth and reproduction of all known organisms and many viruses. James Watson and Francis Crick discovered the structure of DNA in 1953.
+
+Climate change refers to long-term shifts in temperatures and weather patterns. Since the 1800s, human activities have been the main driver of climate change, primarily due to burning fossil fuels like coal, oil and gas, which produces heat-trapping gases. The Paris Agreement was adopted in 2015 to limit global warming.
+
+The Internet is a global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. The Internet originated in the 1960s as ARPANET, a project funded by the U.S. Department of Defense.
+
+Shakespeare was an English playwright and poet, widely regarded as the greatest writer in the English language. He was born in Stratford-upon-Avon in 1564 and died in 1616. His works include 39 plays, 154 sonnets, and several poems.
+
+The human brain contains approximately 86 billion neurons. Each neuron can form thousands of synaptic connections with other neurons. The brain weighs about 1.4 kilograms in adults and consumes roughly 20% of the body's total energy.
+
+Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles. It was developed in the early 20th century by scientists including Max Planck, Albert Einstein, Niels Bohr, and Werner Heisenberg.
+
+The Amazon rainforest is the world's largest tropical rainforest, covering an area of approximately 5.5 million square kilometers. It spans across nine countries in South America, with the majority located in Brazil. The Amazon is home to about 10% of all species on Earth.
+
+The United Nations was established on October 24, 1945, after World War II, with the aim of preventing future wars. It replaced the League of Nations. The UN is headquartered in New York City and currently has 193 member states.
+
+Antibiotics are medicines that fight bacterial infections. Alexander Fleming discovered the first true antibiotic, penicillin, in 1928. Antibiotics work by killing bacteria or preventing them from reproducing, but they are ineffective against viral infections.
+
+The Great Wall of China is a series of fortifications built across the historical northern borders of ancient Chinese states. Construction began in the 7th century BC and continued for centuries. The wall stretches approximately 21,000 kilometers in total length.

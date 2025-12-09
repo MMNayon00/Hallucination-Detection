@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hallucination Detection System - Research Demo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>🔬 Lightweight Hallucination Detection System</h1>
+            <p class="subtitle">Research Demo: Retrieval-Based Verification in Local LLMs</p>
+            <div class="model-info">
+                <span class="badge">🤖 Model: google/flan-t5-small</span>
+                <span class="badge">📊 Embedding: all-MiniLM-L6-v2</span>
+                <span class="badge">💻 CPU-Optimized</span>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main>
+            <!-- Question Input Section -->
+            <section class="input-section">
+                <h2>Ask a Question</h2>
+                <div class="input-group">
+                    <textarea 
+                        id="questionInput" 
+                        placeholder="Enter your question here..."
+                        rows="3"
+                    ></textarea>
+                    <button id="askButton" onclick="askQuestion()">
+                        <span id="buttonText">🔍 Analyze Question</span>
+                        <span id="loadingSpinner" class="spinner" style="display: none;">⏳</span>
+                    </button>
+                </div>
+                
+                <!-- Sample Questions -->
+                <div class="sample-questions">
+                    <p><strong>Try these examples:</strong></p>
+                    <button class="sample-btn" onclick="setQuestion('What is the capital of France?')">
+                        Capital of France
+                    </button>
+                    <button class="sample-btn" onclick="setQuestion('Who created Python programming language?')">
+                        Python Creator
+                    </button>
+                    <button class="sample-btn" onclick="setQuestion('What percentage of Earth is water?')">
+                        Earth Water Coverage
+                    </button>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section id="resultsSection" class="results-section" style="display: none;">
+                
+                <!-- Hallucination Alert -->
+                <div id="hallucinationAlert" class="alert"></div>
+
+                <!-- Score Card -->
+                <div class="score-card">
+                    <h3>Hallucination Score</h3>
+                    <div class="score-display">
+                        <div class="score-value" id="scoreValue">0.00</div>
+                        <div class="score-bar-container">
+                            <div class="score-bar" id="scoreBar"></div>
+                        </div>
+                        <div class="score-labels">
+                            <span>✅ Verified</span>
+                            <span>⚠️ Uncertain</span>
+                            <span>❌ Hallucinated</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Answers Grid -->
+                <div class="answers-grid">
+                    <!-- Original Answer -->
+                    <div class="answer-card">
+                        <h3>🤖 Generated Answer</h3>
+                        <div id="originalAnswer" class="answer-content"></div>
+                        <div id="claimsList" class="claims-list"></div>
+                    </div>
+
+                    <!-- Corrected Answer -->
+                    <div id="correctedCard" class="answer-card corrected" style="display: none;">
+                        <h3>✅ Corrected Answer (Evidence-Based)</h3>
+                        <div id="correctedAnswer" class="answer-content"></div>
+                    </div>
+                </div>
+
+                <!-- Evidence Section -->
+                <div class="evidence-section">
+                    <h3>📚 Retrieved Evidence</h3>
+                    <div id="evidenceList" class="evidence-list"></div>
+                </div>
+
+                <!-- Technical Details (Collapsible) -->
+                <details class="technical-details">
+                    <summary>🔬 Technical Details</summary>
+                    <div id="technicalInfo" class="technical-content"></div>
+                </details>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer>
+            <p>
+                <strong>Research Project:</strong> Lightweight Hallucination Detection and Reduction 
+                in Local LLM Systems using Retrieval-Based Verification
+            </p>
+            <p class="footer-meta">
+                Optimized for MacBook Air M2 | 8GB RAM | CPU-Only Inference
+            </p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{"question": "What is the capital of France?", "ground_truth": "The capital of France is Paris.", "is_hallucinated": false}
+{"question": "Who created Python programming language?", "ground_truth": "Python was created by Guido van Rossum and first released in 1991.", "is_hallucinated": false}
+{"question": "What percentage of Earth's surface is covered with water?", "ground_truth": "About 71% of Earth's surface is covered with water.", "is_hallucinated": false}
+{"question": "When was the Eiffel Tower built?", "ground_truth": "The Eiffel Tower was built from 1887 to 1889.", "is_hallucinated": false}
+{"question": "What is photosynthesis?", "ground_truth": "Photosynthesis is the process by which plants convert light energy into chemical energy using water, carbon dioxide, and minerals.", "is_hallucinated": false}
+{"question": "Who developed the theory of relativity?", "ground_truth": "Albert Einstein developed the theory of relativity, published between 1905 and 1915.", "is_hallucinated": false}
+{"question": "What is DNA?", "ground_truth": "DNA is a molecule that carries genetic instructions for all known organisms and many viruses. It has a double helix structure.", "is_hallucinated": false}
+{"question": "What causes climate change?", "ground_truth": "Since the 1800s, human activities, primarily burning fossil fuels, have been the main driver of climate change.", "is_hallucinated": false}
+{"question": "When was the Internet invented?", "ground_truth": "The Internet originated in the 1960s as ARPANET, a project funded by the U.S. Department of Defense.", "is_hallucinated": false}
+{"question": "When was Shakespeare born?", "ground_truth": "Shakespeare was born in Stratford-upon-Avon in 1564.", "is_hallucinated": false}
+{"question": "How many neurons are in the human brain?", "ground_truth": "The human brain contains approximately 86 billion neurons.", "is_hallucinated": false}
+{"question": "What is quantum mechanics?", "ground_truth": "Quantum mechanics is a fundamental theory in physics describing the physical properties of nature at atomic and subatomic scales.", "is_hallucinated": false}
+{"question": "How large is the Amazon rainforest?", "ground_truth": "The Amazon rainforest covers approximately 5.5 million square kilometers.", "is_hallucinated": false}
+{"question": "When was the United Nations established?", "ground_truth": "The United Nations was established on October 24, 1945, after World War II.", "is_hallucinated": false}
+{"question": "Who discovered penicillin?", "ground_truth": "Alexander Fleming discovered penicillin in 1928.", "is_hallucinated": false}
