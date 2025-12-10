@@ -412,12 +412,4 @@ This project is released under the MIT License. Free to use for academic and res
 
 ---
 
-## 📧 Contact
-
-For questions or collaboration:
-- Email: [your-email@example.com]
-- GitHub: [your-github-profile]
-
----
-
 **Built with ❤️ for reproducible AI research**
