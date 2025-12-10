@@ -6,7 +6,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688.svg)](https://fastapi.tiangolo.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A complete, publishable academic research system for detecting and reducing hallucinations in small language models. Optimized for CPU-only inference on resource-constrained devices (MacBook Air M2, 8GB RAM).
 
 ---
 
