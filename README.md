@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Project Overvie
+## 🎯 Project Overview
 
 This system implements a novel approach to hallucination detection using:
 
