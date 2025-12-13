@@ -1,6 +1,6 @@
 # Lightweight Hallucination Detection System
 
-> **Research Project:** Lightweight Hallucination Detection and Reduction in Local LLM Systems using Retrieval-Based Verificatio
+> **Research Project:** Lightweight Hallucination Detection and Reduction in Local LLM Systems using Retrieval-Based Verification
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688.svg)](https://fastapi.tiangolo.com/)
