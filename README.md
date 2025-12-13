@@ -1,4 +1,4 @@
-# Lightweight Hallucination Detection Syste
+# Lightweight Hallucination Detection System
 
 > **Research Project:** Lightweight Hallucination Detection and Reduction in Local LLM Systems using Retrieval-Based Verification
 
